@@ -1,5 +1,5 @@
 ### Hi there👋, I'm Ahmad
-![](https://komarev.com/ghpvc/?username=Omarmoatz&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Ahmedx59&style=for-the-badge)
 
 # 🚀 Python Developer <br>
 - 🔭 I’m currently studying at faculty of computer and information science Mansoura university.<br>
@@ -61,13 +61,13 @@
 ## 🌐 Connect with me:
 ###
 <p align="left">
-<a href="https://linkedin.com/in/in/omar-moataz-0a0912269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/omar-moataz-0a0912269" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100004395855613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100004395855613" height="30" width="40" /></a>
-<a href="https://instagram.com/omar_moataz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar_moataz_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-osasma-3067b3269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ahmed-osasma-3067b3269/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100012441842085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100012441842085" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmedo_osama_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedo_osama_" height="30" width="40" /></a>
 </p>
 
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarmoatz&" alt="omarmoatz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedx59&" alt="Ahmedx59" /></p>
 <br />
 
 <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
